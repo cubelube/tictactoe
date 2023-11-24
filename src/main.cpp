@@ -133,4 +133,5 @@ bool isGameOver() {
     }
 
     tie = true;
-    return false;
+    return true;
+}
